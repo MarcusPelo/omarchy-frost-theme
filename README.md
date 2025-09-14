@@ -6,11 +6,11 @@ Frost is a simple, elegant, and dark theme for Omarchy inspired by the serene be
   <img src="logo.png" alt="Frost Logo">
 </p>
 
-> In winter's hush, where crystals form,
-> Against the dark, the cool lights warm.
-> Each line of code, a crystal bright,
-> In frost's domain, where thoughts take flight,
-> And focused minds weather any storm.
+> In winter's hush, where crystals form,  
+> Against the dark, the cool lights warm.  
+> Each line of code, a crystal bright,  
+> In frost's domain, where thoughts take flight,  
+> And focused minds weather any storm.  
 
 ## Screenshot
 
